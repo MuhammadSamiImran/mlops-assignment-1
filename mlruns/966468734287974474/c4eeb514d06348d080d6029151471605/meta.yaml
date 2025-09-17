@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Sami/Documents/Semester%207/MLOps%20Assignments/mlops-assignment-1/mlruns/966468734287974474/c4eeb514d06348d080d6029151471605/artifacts
+end_time: 1758042253101
+entry_point_name: ''
+experiment_id: '966468734287974474'
+lifecycle_stage: active
+run_id: c4eeb514d06348d080d6029151471605
+run_name: Logistic Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758042252590
+status: 3
+tags: []
+user_id: Sami

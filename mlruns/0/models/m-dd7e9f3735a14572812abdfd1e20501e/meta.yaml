@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/Sami/Documents/Semester%207/MLOps%20Assignments/mlops-assignment-1/mlruns/0/models/m-dd7e9f3735a14572812abdfd1e20501e/artifacts
+creation_timestamp: 1757962437229
+experiment_id: '0'
+last_updated_timestamp: 1757962443498
+model_id: m-dd7e9f3735a14572812abdfd1e20501e
+model_type: null
+name: model
+source_run_id: 92ac67a7f761496b9d03703fd55f0e00
+status: 2
+status_message: null

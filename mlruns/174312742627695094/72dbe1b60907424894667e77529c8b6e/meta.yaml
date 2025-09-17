@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Sami/Documents/Semester%207/MLOps%20Assignments/mlops-assignment-1/mlruns/174312742627695094/72dbe1b60907424894667e77529c8b6e/artifacts
+end_time: 1758041343249
+entry_point_name: ''
+experiment_id: '174312742627695094'
+lifecycle_stage: active
+run_id: 72dbe1b60907424894667e77529c8b6e
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758041337438
+status: 3
+tags: []
+user_id: Sami

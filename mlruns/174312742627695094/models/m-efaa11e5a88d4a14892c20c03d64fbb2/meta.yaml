@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/Sami/Documents/Semester%207/MLOps%20Assignments/mlops-assignment-1/mlruns/174312742627695094/models/m-efaa11e5a88d4a14892c20c03d64fbb2/artifacts
+creation_timestamp: 1758041337885
+experiment_id: '174312742627695094'
+last_updated_timestamp: 1758041342959
+model_id: m-efaa11e5a88d4a14892c20c03d64fbb2
+model_type: null
+name: RandomForest
+source_run_id: 72dbe1b60907424894667e77529c8b6e
+status: 2
+status_message: null

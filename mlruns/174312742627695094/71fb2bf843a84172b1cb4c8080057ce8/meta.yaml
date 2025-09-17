@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Sami/Documents/Semester%207/MLOps%20Assignments/mlops-assignment-1/mlruns/174312742627695094/71fb2bf843a84172b1cb4c8080057ce8/artifacts
+end_time: 1758041349049
+entry_point_name: ''
+experiment_id: '174312742627695094'
+lifecycle_stage: active
+run_id: 71fb2bf843a84172b1cb4c8080057ce8
+run_name: SVM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758041343261
+status: 3
+tags: []
+user_id: Sami
